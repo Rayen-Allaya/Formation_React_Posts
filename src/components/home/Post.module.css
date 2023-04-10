@@ -1,0 +1,10 @@
+.card {
+    width: 50vw;
+    border: solid 1px black;
+    /* background: red */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-block: 2vh;
+}
